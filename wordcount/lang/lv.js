@@ -4,7 +4,7 @@ Latvian translation by Edgars Skujins
 CKEDITOR.plugins.setLang('wordcount', 'lv', {
     WordCount: 'Vārdu:',
     WordCountRemaining: 'Vārdu atlicis',
-    CharCount: 'Simbolu:',
+    CharCount: 'Simboli:',
     CharCountRemaining: 'Simbolu atlicis',
     CharCountWithHTML: 'Simbolu (ieskaitot HTML):',
     CharCountWithHTMLRemaining: 'Simbolu (ieskaitot HTML) atlicis',
